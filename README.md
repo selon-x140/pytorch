@@ -1,2 +1,4 @@
 # pytorch
-my study f pytorch tutorials
+my study of pytorch tutorials
+
+https://pytorch.org/tutorials/
